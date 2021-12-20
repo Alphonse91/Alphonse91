@@ -4,6 +4,6 @@ user_mail= nzeboambof@gmail.com
 =======
 exent layout 
 block content
-   h2= tiite
+   h3= tiite
    p welcome to #(tittle)
 >>>>>>> iss53
